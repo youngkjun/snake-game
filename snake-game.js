@@ -55,7 +55,7 @@ var isGameOver = false;
 function initGameBoard(){
 	let screenWidth = document.documentElement.clientWidth;
     let screenHeight = document.documentElement.clientHeight;
-    initPlayArea(screenWidth, screenHeight);
+    initPlayArea(screenWidth, screenHeight - 200);
 }
 
 function initPlayArea(screenWidth, screenHeight){
