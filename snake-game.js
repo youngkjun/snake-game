@@ -1,4 +1,12 @@
 /***************************************
+** Proverbs 3:9-10
+** Honor the LORD with your wealth,
+** with the firstfruits of all your crops;
+** then your barns will be filled to overflowing,
+** and your vats will brim over with new wine.
+****************************************/
+
+/***************************************
 ** Beginning of
 ** Definition
 ****************************************/
@@ -320,3 +328,13 @@ window.onresize = function(){
 }
 
 var gameTimer = setGameInterval();
+
+/***************************************
+** 2 Corinthians 9:6-7
+** Remember this: 
+** Whoever sows sparingly will also reap sparingly, 
+** and whoever sows generously will also reap generously.
+** Each of you should give what you have decided in your heart to give,
+** not reluctantly or under compulsion, 
+** for God loves a cheerful giver.
+****************************************/
